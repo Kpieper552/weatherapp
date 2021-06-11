@@ -1,5 +1,6 @@
 import React from 'react';
 import './MetricSlider.css';
+import kelvinToCelcius from '../../helpers/kelvinToCelcius';
 
 const MetricSlider = () => {
   return (
